@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Marcus Lara 🤘🏻🤘🏻
+## Olá!! Eu sou o Marcus Lara :D
 <hr>
  👨🏻‍🎓 Análise e Desenvolvimento de Sistemas.
 <br><br>
