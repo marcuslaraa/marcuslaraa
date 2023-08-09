@@ -19,8 +19,10 @@
   <img align="center" alt="marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="marcus-C" height="30" width="40"
  src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="marcus-C" height="30" width="40"
+  <img align="center" alt="marcus-java" height="30" width="40"
 src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+<img align="center" alt="marcus-nodeJs" height="30" width="40"
+src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 
 
 </div>
