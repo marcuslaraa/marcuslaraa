@@ -4,7 +4,7 @@
 <br><br>
  👨🏻‍💻 Hoje estou estudando para me tornar um Desenvolvedor FullStack!
  <br><br>
- 💻 Atualmente estou estudando Banco de dados e ReactJs.
+ 💻 Atualmente estou estudando Banco de dados.
  <br><br>
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcuslaraa&show_icons=true&theme=dracula&include_all_commits=true"/>
