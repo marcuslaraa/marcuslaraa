@@ -2,6 +2,10 @@
 <hr>
  👨🏻‍🎓 Análise e Desenvolvimento de Sistemas.
 <br><br>
+
+<img width="100%">![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWppdnp4aHUwZ3YwbGM1bjI5OTc2Z3RjOWN2aW9qYXBka3FxNGYwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ifm1CfPNDDQAFWOjJu/giphy.gif)     
+<hr>
+
  
  <span> <img height="180em" width="52%" src="https://github-readme-stats.vercel.app/api?username=marcuslaraa&show_icons=true&theme=dracula&include_all_commits=true"/>
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcuslaraa&layout=compact&langs_count=7&theme=dracula"/> </span>
