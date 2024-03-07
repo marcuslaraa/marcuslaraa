@@ -1,9 +1,13 @@
 ## Olá!! Eu sou o Marcus Lara :D
 <hr>
- 👨🏻‍🎓 Análise e Desenvolvimento de Sistemas.
+ <p align="center">👨🏻‍🎓 Análise e Desenvolvimento de Sistemas.</p>
 <br><br>
 
-<img width="100%">![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWppdnp4aHUwZ3YwbGM1bjI5OTc2Z3RjOWN2aW9qYXBka3FxNGYwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ifm1CfPNDDQAFWOjJu/giphy.gif)     
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWppdnp4aHUwZ3YwbGM1bjI5OTc2Z3RjOWN2aW9qYXBka3FxNGYwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ifm1CfPNDDQAFWOjJu/giphy.gif" />
+</p>
+
+   
 <hr>
 
  
