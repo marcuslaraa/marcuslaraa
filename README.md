@@ -1,10 +1,10 @@
 ## Olá!! Eu sou o Marcus Lara :D
 <hr>
  <p align="center">👨🏻‍🎓 Análise e Desenvolvimento de Sistemas.</p>
-<br><br>
+<br>
 
 <p align="center">
-  <img width="100%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VkeDNqMXRhdmRqbzVmOHc2cWhvZGJsNnpsaXFndHBjY2piNmMwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+  <img width="70%"  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VkeDNqMXRhdmRqbzVmOHc2cWhvZGJsNnpsaXFndHBjY2piNmMwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
    
