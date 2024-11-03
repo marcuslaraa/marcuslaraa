@@ -11,7 +11,7 @@
 <hr>
 
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcuslaraa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&token=YOUR_TOKEN)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcuslaraa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&token=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)
  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=marcuslaraa&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 <hr>
