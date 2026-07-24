@@ -36,8 +36,6 @@ Trabalho no dia a dia com integrações bancárias, relatórios, omnichannel, re
 
 ## Stacks
 
-Tecnologias extraídas do que realmente aparece nas contribuições em produção:
-
 ### Linguagens & runtime
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,html,css" alt="Languages" />
