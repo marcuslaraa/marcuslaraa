@@ -34,7 +34,7 @@ Trabalho no dia a dia com integrações bancárias, relatórios, omnichannel, re
 
 ---
 
-## Stack que uso na AGX
+## Stacks
 
 Tecnologias extraídas do que realmente aparece nas contribuições em produção:
 
@@ -66,37 +66,6 @@ Tecnologias extraídas do que realmente aparece nas contribuições em produçã
 
 ---
 
-## Métricas na AGX Software
-
-Números das contribuições locais nos repositórios da organização *(abril/2024 → jul/2026)*:
-
-| Métrica | Valor |
-| :--- | :--- |
-| Commits | **3.136+** |
-| Linhas adicionadas | **~233k** |
-| Linhas removidas | **~112k** |
-| Repositórios com contribuição | **9** |
-| Tempo ativo na equipe | **~2,3 anos** |
-
-### Onde mais contribuo
-
-| Repositório | Papel | Commits |
-| :--- | :--- | ---: |
-| `core` | APIs, crédito, SMTP/omnichannel, integrações bancárias | **1.822** |
-| `uxvision-web` | Painéis React, relatórios, Behavior Score, UX de propostas | **864** |
-| `indiky-server` | Serviços Vision, relatórios e regras de negócio | **291** |
-| `auto-x-web` | Jornada self-service, ofertas BB, UI de crédito | **103** |
-| `rh400-server` / `vpn-server` / outros | Serviços auxiliares e melhorias pontuais | **56** |
-
-### Foco recente de entrega
-- Configuração de **SMTP próprio por master** com liberação por nível (omnichannel)
-- Integrações e UI de **ofertas / contratos Banco do Brasil**
-- Relatórios NIO (colunas de cliente, e-mail e data de integração)
-- Regras de **Behavior Score** e fluxo de reprova
-- Experiências self-contract no **Auto-X**
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -115,21 +84,6 @@ Números das contribuições locais nos repositórios da organização *(abril/2
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=marcuslaraa&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=8" alt="Trophies" />
 </div>
-
----
-
-## Como trabalho
-
-```text
-┌─────────────┐    ┌──────────────┐    ┌─────────────┐
-│   React UI  │───▶│  Node / API  │───▶│  Mongo / SQL │
-│  Ant Design │    │  Express/TS  │    │  Filas/Jobs  │
-└─────────────┘    └──────────────┘    └─────────────┘
-        │                  │
-        └──── Socket.IO / integrações bancárias ────┘
-```
-
-Prefiro código legível, PRs objetivos e features que sobrevivem ao uso real — com atenção a tipagem, edge cases de crédito e DX do time.
 
 ---
 
